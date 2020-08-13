@@ -1,0 +1,10 @@
+NAME,CATEGORY,PRICE,IMPORTED
+Book,BOOKS,12.49,false
+Music CD,GOODS,14.99,false
+Chocolate Bar,FOOD,0.85,false
+Imported Box of Chocolates,FOOD,10.00,true
+Imported Box of Chocolates,FOOD,11.25,true
+Imported Bottle of Perfume,GOODS,27.99,true
+Imported Bottle of Perfume,GOODS,47.50,true
+Bottle of Perfume,GOODS,18.99,false
+Packet of Headache Pills,MEDICAL,9.75,false
